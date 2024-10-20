@@ -1,0 +1,35 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+.socialmedia{
+  text-decoration : none;
+  color:grey;
+  transition: 0.2s ease-in-out;
+}
+.socialmedia:hover{
+  color: #004a90;
+  scale: 1.2;
+}
+.socialmedia:active{
+  color: #004a90;
+  scale: 1;
+}
+.custom-modal-header .btn-close {
+  color: white;
+}
+
+.custom-modal-header .btn-close:hover {
+  color: lightgray; 
+}
+.linkimg:hover{
+  cursor: pointer;
+}
+
+
+.edit_icon:hover{
+  filter: grayscale(0);
+  scale: 1.2;
+}
+
